@@ -1,0 +1,6 @@
+{
+  "name": "BharatSeva",
+  "description": "All-in-one local Indian services, verified skilled artisans, cabs, bus booking, Sarkari Yojanas, skill training & Bharat Wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
